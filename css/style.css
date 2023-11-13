@@ -67,3 +67,30 @@ th {
 .colore-tabella {
     background-color: aqua;
 }
+
+
+/* Footer */
+footer {
+    width: 1400px;
+    margin: auto;
+    color: grey;
+}
+
+.box-footer {
+    width: 300px;
+    height: 200px;
+}
+
+.first-img {
+    background-image: url('../img/monitor.jpg');
+}
+
+.second-img {
+    background-image: url('../img/graph.jpg');
+}
+
+.first-img, .second-img {
+    color: white;
+    font-size: 25px;
+    padding: 8px;
+}
