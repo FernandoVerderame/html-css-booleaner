@@ -47,7 +47,9 @@ h1 {
 /* Main explanation */
 
 p,
-ul {
+ul,
+table
+{
     font-size: 20px;
 }
 
@@ -55,3 +57,13 @@ ul {
     background-color: yellow;
 }
 
+
+/* Table */
+th {
+    background-color: dodgerblue;
+    color: white;
+}
+
+.colore-tabella {
+    background-color: aqua;
+}
