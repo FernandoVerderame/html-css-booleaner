@@ -17,7 +17,7 @@ body {
     height: 150px;
 }
 
-/* Main */
+/* Main Title&Images*/
 main {
     width: 1400px;
     margin: auto;
@@ -33,7 +33,7 @@ h1 {
     color: grey;
 }
 
-span {
+#blog-owner {
     color: dodgerblue;
 }
 
@@ -41,5 +41,17 @@ span {
     font-size: 12px;
     color: grey;
     margin: 8px 0;
+}
+
+
+/* Main explanation */
+
+p,
+ul {
+    font-size: 20px;
+}
+
+.highlighter {
+    background-color: yellow;
 }
 
