@@ -1,0 +1,18 @@
+/* Generics */
+body {
+    margin: 0 auto;
+}
+
+/* Header */
+.box1 {
+    width: 1400px;
+    height: 150px;
+    background-color: dodgerblue;
+    background-image: url('../img/pattern.png');
+    margin: auto;
+}
+
+#logo-booleaner {
+    width: 200px;
+    height: 150px;
+}
